@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulhuerta&label=Profile%20views&color=0e75b6&style=flat-square" alt="paulhuerta" /> </p>
 
-- I am currently learning **VueJS, NodeJS y Laravel** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20">
+- I am currently learning **VueJS, NodeJS and Laravel** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20">
 
 - All my projects are available at [🚀](#)
 

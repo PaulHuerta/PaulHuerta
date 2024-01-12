@@ -1,24 +1,42 @@
-<h1 align="center">Hi!👋 i am Paul Huerta</h1>
-<h3 align="center">A junior programmer 👨‍💻</h3>
+# ¡Hola, soy Paul! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulhuerta&label=Profile%20views&color=0e75b6&style=flat-square" alt="paulhuerta" /> </p>
 
-- I am currently learning **Flutter and TypeScript**
+## Desarrollador Web Full Stack Jr
 
-- All my projects are available at [🚀](#)
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado desarrollador web full stack jr con experiencia en tecnologías modernas y un amor por la creación de soluciones innovadoras.
 
-- You can contact me by mail [📧](mailto:paulhuerta888@gmail.com)
+## Habilidades
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/paul-huerta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="paul-huerta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15559698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15559698" height="30" width="40" /></a>
-<a href="https://fb.com/paulhc123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paulhc123" height="30" width="40" /></a>
-<a href="https://instagram.com/paul.huerta_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paul.huerta_" height="30" width="40" /></a>
-</p>
+- **Frontend:**
+  - HTML5
+  - CSS3
+  - SASS
+  - JavaScript
+  - Vue.js 3
+  - Tailwind CSS
+  - Bootstrap
+  
+- **Backend:**
+  - Node.js
+  - PHP 8+
+  - MySQL
+  - SQL Server
+  
+- **Herramientas y Otros:**
+  - Git, GitHub
+  - RESTful APIs
+  - Control de versiones
+    
+## Contacto
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
+¡Estoy emocionado por nuevas oportunidades y colaboraciones! Puedes encontrarme en:
+- [Instagram](https://www.instagram.com/paul.huerta_/?hl=es)
+- [Correo Electrónico](paulhuerta888@email.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=paulhuerta&show_icons=true&theme=tokyonight" alt="paulhuerta" /></p>
+¡Gracias por visitar mi perfil! 😊
+
+
+¡Gracias por visitar mi perfil!
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulhuerta&show_icons=true&locale=en&layout=compact" alt="paulhuerta" /></p>
